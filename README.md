@@ -8,4 +8,6 @@ the Rinkeby test net.
 <p align="center"><img src='https://raw.githubusercontent.com/MartinIglesias86/Whitelist-Dapp-SmartContract/master/readmeimg/banner-github.png' width="75%" height="75%" ></p>
 
 ## Test deploy
-Smart contract deployed in [Rinkeby Testnet Network](https://rinkeby.etherscan.io/address/0xdAEC3cDE06f598C825886A3E27AE2c525f18e9AD)
+📋 Smart contract deployed in [Rinkeby Testnet Network](https://rinkeby.etherscan.io/address/0xdAEC3cDE06f598C825886A3E27AE2c525f18e9AD)
+
+💻 App deployed [Here](https://nft-collection-d-app-martiniglesias86.vercel.app/)
